@@ -1,0 +1,5 @@
+||youtube.com/shorts^
+||www.youtube.com/shorts^
+||m.youtube.com/shorts^
+||youtube.com/*shorts*
+||m.youtube.com/*shorts*
